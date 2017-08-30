@@ -14,3 +14,8 @@ The minimum requirement is that your web server supports PHP 7.0 or above.
 ```
 PHP7, MySQL, DIC, Smarty, Bootstrap 4
 ```
+
+#### MySQL
+```
+https://github.com/alysenkocom/test-work-search/blob/master/testdb_2017-08-28.sql
+```
