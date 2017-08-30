@@ -1,0 +1,23 @@
+{
+  "name": "test-work",
+  "description": "Test",
+  "type": "project",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "alysenkocom",
+      "email": "alex.lysenko.kh@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "TestWork\\src\\": "src"
+    }
+  },
+  "require": {
+    "smarty/smarty": "~3.1",
+    "symfony/http-foundation": "^3.3",
+    "twbs/bootstrap": "^3.3"
+  }
+}
